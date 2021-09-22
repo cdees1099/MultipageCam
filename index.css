@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+nav{
+    height: 60px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+body{
+    background-color: antiquewhite;
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+    transition: 0.5s;
+    margin: 0 10px;
+    line-height: 60px;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 21px;
+}
+
+div{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+img{
+    height: 200px;
+    width: 150px;
+}
